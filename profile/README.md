@@ -12,7 +12,7 @@ Production tools assist in creating the educational resources. Specialized tools
 
 Our first content project is a physics textbook, _The World_, along with the related resources (assesments, laboratory investigations, etc.) _The World_ has an historical approach with a modern perspective. The course is algebra based and designed for high school.
 
-## Content creation and publication tools
+## Tools for content creation and publication
 
 ### Our first tool project: `luageo`
 
